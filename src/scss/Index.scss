@@ -1,0 +1,12 @@
+@import 'Variables.scss';
+@import 'App.scss';
+
+@media only screen and (max-width: 600px) {
+    .justify-content-sm-center{
+        justify-content: center !important;
+    }
+  }
+
+@media (prefers-color-scheme: dark) {
+    @import 'DarkMode.scss';
+}

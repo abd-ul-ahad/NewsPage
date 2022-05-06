@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 23545,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Tesla's deliveries increased despite supply shortages and plant closures",
+            "description": "Tesla delivered 310,048 vehicles over the first three months of 2022, the automaker announced\r\n on Saturday. “This was an exceptionally                       difficult quarter due to supply chain interruptions and China Zero-Covid policy,” Musk said\r\n on Twitter shortly after Tesl…",
+            "url": "https://www.engadget.com/tesla-q-1-2022-deliveries-214141313.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/733d9be0-b2cd-11ec-b7f9-382caaedc1ae",
+            "publishedAt": "2022-04-02T21:41:41Z",
+            "content": "Tesla delivered 310,048 vehicles over the first three months of 2022, the automaker announced\r\n on Saturday. This was an exceptionally difficult                  quarter due to supply chain interruptions and China Ze… [+920 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Tesla earned over $3 billion in profit this quarter",
+            "description": "The electric automaker released its quarterly earnings on Wednesday, announcing that it had made $3.3 billion in profit on over $18.7 billion in revenue.",
+            "url": "https://www.theverge.com/2022/4/20/23031976/tesla-q1-earnings-profit-elon-musk",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XXmZbVj5T-8jRaJnNE4ZLX5nsYs=/0x415:5791x3447/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23400122/1239824662.jpg",
+            "publishedAt": "2022-04-20T20:48:26Z",
+            "content": "Photo by Suzanne Cordeiro / AFP via Getty Images\r\n\n \n\n Amid supply chain constraints and production delays in China, Tesla reported that it                    earned a $3.3 billion profit in the first quarter of 2022. … [+4448 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Tesla can now insure your EV in Colorado, Oregon and Virginia",
+            "description": "Tesla's in-house insurance is now available in three more states. As Forbesnotes, Tesla revealed during its latest earnings call that its \"real-time\" insurance has reached Colorado, Oregon and Virginia. The automaker has also filed paperwork in Nevada with pl…",
+            "url": "https://www.engadget.com/tesla-insurance-colorado-oregon-virginia-200217835.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/1a1ea5d0-c26e-11ec-a67f-743a1cd16647",
+            "publishedAt": "2022-04-22T20:02:17Z",
+            "content": "Tesla's in-house insurance is now available in three more states. As Forbesnotes, Tesla revealed during its latest earnings call that its \"real-time\" insurance has reached Colorado, Oregon and Virgin… [+843 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Tesla nearly doubled its revenue in Q1 despite industry wide supply chain woes",
+            "description": "Tesla built 305,000 vehicles in the first quarter of this year, delivered 310,000 of them, and opened two new factories — in Berlin and Austin — all while CEO Elon Musk sought a highly publicized potential hostile takeover of Twitter.Tesla's recent factory in…",
+            "url": "https://www.engadget.com/tesla-q1-2022-earnings-204303491.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/510e3760-c0e6-11ec-bbef-90a8bbcec3d7",
+            "publishedAt": "2022-04-20T20:43:03Z",
+            "content": "Tesla built 305,000 vehicles in the first quarter of this year, delivered 310,000 of them, posted $3.3 billion in net income, and opened two new factories in Berlin and Austin all while CEO Elon Musk… [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Elon Musk must continue to have his Tesla tweets checked before posting",
+            "description": "Elon Musk won't be able to get out of his agreement requiring oversight of his tweets about the company, Bloomberg reported. A judge has rejected his request to drop the 2018 deal made with the US Securities and Exchange Commission (SEC) that required a compa…",
+            "url": "https://www.engadget.com/elon-musk-cant-get-out-of-his-sec-oversight-deal-085515038.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/74fa0720-bfed-11ec-af6f-26cc4295ec5b",
+            "publishedAt": "2022-04-28T08:55:15Z",
+            "content": "Elon Musk won't be able to get out of his agreement requiring oversight of his tweets about the company, Bloomberg reported. A judge has rejected his request to drop the 2018 deal made with the US Se… [+2720 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Tesla's Cybertruck will go on sale in 2023, says Elon Musk",
+            "description": "Tesla will finally start selling the Cybertruck next year, Elon Musk has announced at the opening party for the company's Giga Texas factory. During his presentation on stage, Musk showed off the production Cybertruck vehicle, which still looks like the previ…",
+            "url": "https://www.engadget.com/tesla-cybertruck-2023-elon-musk-071706850.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/4f335880-b704-11ec-bffb-e38b6f157738",
+            "publishedAt": "2022-04-08T07:17:06Z",
+            "content": "Tesla will finally start selling the Cybertruck next year, Elon Musk has announced at the opening party for the company's Giga Texas factory. During his presentation on stage, Musk showed off the pro… [+1768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Eshe Nelson",
+            "title": "Elon Musk offers to buy Twitter for $54.20 a share.",
+            "description": "“Twitter has extraordinary potential. I will unlock it,” the Tesla chief executive said in a regulatory filing.",
+            "url": "https://www.nytimes.com/live/2022/04/14/business/elon-musk-twitter",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/14/multimedia/14musk-twitter/14musk-twitter-facebookJumbo.jpg",
+            "publishedAt": "2022-04-14T11:20:41Z",
+            "content": "Elon Musk said his offer to buy Twitter for $54.20 a share represented a 54 percent premium over the share price on the day before he began investing in the company in late January.Credit...Pool phot… [+1862 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Elon Musk loses bid to end Tesla tweets oversight deal",
+            "description": "The ruling comes just days after the world's richest person struck a deal to buy Twitter for $44bn.",
+            "url": "https://www.bbc.co.uk/news/business-61253171",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/181AD/production/_124333789_gettyimages-1393786673.jpg",
+            "publishedAt": "2022-04-28T04:14:28Z",
+            "content": "Image source, Getty Images\r\nElon Musk has lost a bid to get out of an agreement made with regulators requiring oversight of his tweets about his car firm Tesla.\r\nThe settlement was made after he twee… [+2933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Stanley Reed",
+            "title": "Russia’s gas cutoff to Poland and Bulgaria should be manageable, analysts say.",
+            "description": "Poland’s gas storage facilities are 75 percent full, and it has been working for years to avoid being held to ransom by Moscow over energy.",
+            "url": "https://www.nytimes.com/live/2022/04/27/business/stocks-earnings-meta-ford",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/27/multimedia/27gas-cutoff/27gas-cutoff-facebookJumbo.jpg",
+            "publishedAt": "2022-04-27T10:01:15Z",
+            "content": "Even for Mr. Musk, who is worth well north of $200 billion, thats a lot of cash to come up with. Most of his wealth is tied up in Tesla stock, and one of the most obvious ways to raise the money woul… [+4418 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Elon Musk now owns a 9.2 percent stake in Twitter",
+            "description": "Tesla and SpaceX CEO Elon Musk now owns 9.2 percent of Twitter after purchasing $2.89 billion in stock, according to a US Securities and Exchange Commission (SEC) filing spotted by CNBC. The purchase follows recent criticism by Musk over the social media site…",
+            "url": "https://www.engadget.com/elon-musk-now-owns-92-percent-of-twitter-113623921.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/d79845b0-8e63-11ec-9bfe-4c0ee6be58a3",
+            "publishedAt": "2022-04-04T11:36:23Z",
+            "content": "Tesla and SpaceX CEO Elon Musk now owns 9.2 percent of Twitter after purchasing $2.89 billion in stock, according to a US Securities and Exchange Commission (SEC) filing spotted by CNBC. The purchase… [+1422 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Block and Blockstream are partnering with Tesla on an off-grid, solar-powered Bitcoin mine in Texas",
+            "description": "Block and Blockstream are partnering with Tesla on an open-source, solar-powered Bitcoin mine, the companies announced Friday. Tesla’s 3.8-megawatt Solar PV array and its 12 megawatt-hour Megapack will power the facility, and construction has started on the p…",
+            "url": "https://www.theverge.com/2022/4/8/23016553/block-blockstream-tesla-solar-bitcoin-mine-texas",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/OYrvaaOHBuEpdTeRO55nZnZdexs=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8937281/acastro_170726_1777_0007_v2.jpg",
+            "publishedAt": "2022-04-08T16:02:52Z",
+            "content": "Its set to open later this year\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Castro / The Verge\r\nBlock and Blockstream, a … [+1336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Honda Hopes You'll Forget About Tesla With $40 Billion EV Investment",
+            "description": "People better be prepared for an all-electric future of car ownership. Though in terms of companies paving the road to get to widespread acceptance, some are planning bigger than others.Read more...",
+            "url": "https://gizmodo.com/honda-hopes-youll-forget-about-tesla-with-40-billion-e-1848782606",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a6fd587ef25f8bab214ad389a5cfc1f4.jpg",
+            "publishedAt": "2022-04-12T17:10:00Z",
+            "content": "People better be prepared for an all-electric future of car ownership. Though in terms of companies paving the road to get to widespread acceptance, some are planning bigger than others.\r\nJapanese ca… [+3464 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Watch Elon Musk's TED talk live for free",
+            "description": "It's a busy time in the world of Elon Musk. On the same day it emerged he made a bid to buy Twitter, he's giving a TED Talk. The organizers of TED are opening up the conference's livestreaming channel to all, so anyone can watch the talk (which is underway) f…",
+            "url": "https://www.engadget.com/elon-musk-ted-talk-how-to-watch-172254234.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/af5c9bf0-ade9-11ec-bfe7-7c9dd3b22206",
+            "publishedAt": "2022-04-14T17:22:54Z",
+            "content": "It's a busy time in the world of Elon Musk. On the same day it emerged he made a bid to buy Twitter, he's giving a TED Talk. The organizers of TED are opening up the conference's livestreaming channe… [+534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Trish Bendix",
+            "title": "Late Night Isn’t Thrilled About Elon Musk’s Attempted Twitter Takeover",
+            "description": "“He is super smart, definitely, but he admits that he also loves dumb jokes, so we don’t know how this could turn out,” Trevor Noah said of the Tesla C.E.O.",
+            "url": "https://www.nytimes.com/2022/04/15/arts/television/trevor-noah-elon-musk-twitter.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/15/arts/15latenight/15latenight-facebookJumbo.png",
+            "publishedAt": "2022-04-15T05:31:50Z",
+            "content": "But one of the American companies that has suspended service in Russia is Netflix, which has made subscribers in Russia so mad, theyre suing Netflix. They want 60 million rubles in compensation, whic… [+767 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "BVTV: Twitter, Tesla and China - Reuters",
+            "description": "Elon Musk’s $44 bln deal to buy the social media company puts shareholders of the electric-car company he runs in an awkward spot. Tesla has lost $126 bln of market value on the news. Pete Sweeney explains why he thinks Beijing will be part of the problem.",
+            "url": "https://www.reuters.com/video/watch/idRCV00AZOJ",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20220427&i=RCV00AZOJ&r=RCV00AZOJ&t=2",
+            "publishedAt": "2022-04-27T08:32:15Z",
+            "content": "Posted \r\nElon Musks $44 bln deal to buy the social media company puts shareholders of the electric-car company he runs in an awkward spot. Tesla has lost $126 bln of market value on the news. Pete Sw… [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Musk 2018 tweets 'false and misleading' -court filing - Reuters",
+            "description": "A federal judge has ruled that Tesla CEO Elon Musk's 2018 tweets about having secured financing to take the company private were false, according to court filings by Tesla investors suing the billionaire over the tweets.",
+            "url": "https://www.reuters.com/video/watch/idOV226017042022RP1",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20220417&i=OV226017042022RP1&r=OV226017042022RP1&t=2",
+            "publishedAt": "2022-04-17T19:46:21Z",
+            "content": "Posted \r\nA federal judge has ruled that Tesla CEO Elon Musk's 2018 tweets about having secured financing to take the company private were false, according to court filings by Tesla investors suing th… [+29 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "In pictures: Billionaire entrepreneur Elon Musk",
+            "description": "Elon Musk built a commercial rocket company from scratch and upended the auto industry as a high-profile evangelist for electric cars. It has made him one of the richest people in the world.",
+            "url": "https://www.cnn.com/2020/05/13/us/gallery/elon-musk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200513114125-18-elon-musk-unfurled-super-tease.jpg",
+            "publishedAt": "2022-04-25T19:50:46Z",
+            "content": "Elon Musk, the CEO of SpaceX and Tesla Motors, poses for a photo in 2013.\r\nUpdated 3:50 PM ET, Mon April 25, 2022\r\nElon Musk, the CEO of SpaceX and Tesla Motors, poses for a photo in 2013.\r\nElon Musk… [+662 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Tesla wants redo on ruling that Musk's 'funding' tweets were false - Reuters",
+            "description": "As Tesla Inc CEO Elon Musk <a href=\"https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25\" target=\"_blank\">finalized</a> his $44 billion deal to acquire Twitter Inc, Tesla defense lawyers pushed to undo a <a…",
+            "url": "https://www.reuters.com/legal/litigation/tesla-wants-redo-ruling-that-musks-funding-tweets-were-false-2022-04-25/",
+            "urlToImage": "https://www.reuters.com/resizer/ROoBPlGjkN6mJI-fpAItdFFDthA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7Z6QWRCU5MCRJKJTJLSRISUIY.jpg",
+            "publishedAt": "2022-04-25T19:01:00Z",
+            "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+7126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Tesla Officially Opens Texas Gigafactory",
+            "description": "An anonymous reader quotes a report from The Verge: Tesla opened its Austin, Texas-based Gigafactory on Thursday, a crucial step in the company's delayed plans to begin production of its electric Cybertruck. To celebrate the opening, Tesla held an event, bill…",
+            "url": "https://news.slashdot.org/story/22/04/08/201239/tesla-officially-opens-texas-gigafactory",
+            "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
+            "publishedAt": "2022-04-08T20:40:00Z",
+            "content": "Tesla opened its Austin, Texas-based Gigafactory on Thursday, a crucial step in the company's delayed plans to begin production of its electric Cybertruck. To celebrate the opening, Tesla held an eve… [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Netflix plans cheaper, ad-supported subscription tiers",
+            "description": "Netflix might offer cheaper, ad-supported plans in the coming years. In the company's most recent earnings call, co-CEO Reed Hastings said the company is working on the offering, and it’ll finalize details for those plans \"over the next year or two.\"The servi…",
+            "url": "https://www.engadget.com/the-morning-after-netflix-plans-cheaper-ad-supported-subscription-tiers-111500476.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/bbbfe540-757d-11ec-bb3b-5aee048e0287",
+            "publishedAt": "2022-04-21T11:15:00Z",
+            "content": "Netflix might offer cheaper, ad-supported plans in the coming years. In the company's most recent earnings call, co-CEO Reed Hastings said the company is working on the offering, and itll finalize de… [+3768 chars]"
+        }
+    ]
+}

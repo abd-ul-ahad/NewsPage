@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth !important;
+}
+
+*::selection{
+    color: var(--selection-color);
+    background-color: var(--selection-background-color);
+}
+
+.text-dark-mode {
+    color: black;
+}
+
+.text-dark-mode:hover {
+    color: black;
+}
+
+.news-cont{
+    min-height: 62vh;
+}

@@ -1,0 +1,30 @@
+* {
+    border: none !important;
+    background-color: var(--dark-back-color) !important;
+    color: var(--dark-fore-color) !important;
+}
+
+img {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+.form-control {
+    border: 1px solid var(--little-dark-color) !important;
+}
+
+.dark-mode-card {
+    background-color: var(--little-dark-color);
+}
+
+.text-dark-mode {
+    color: var(--dark-fore-color) !important;
+}
+
+.hr-dark-mode {
+    border-top: 1px solid var(--dark-fore-color) !important;
+}
